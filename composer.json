@@ -1,5 +1,6 @@
 {
 	"name": "dudom/ehandler",
-	"description": "Manage all errors"
+	"description": "Manage all errors",
+	"minimum-stability": "stable"
 
 }
