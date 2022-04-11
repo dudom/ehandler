@@ -1,7 +1,6 @@
 {
 	"name": "dudom/ehandler",
 	"description": "Manage all errors",
-	"description": "Managing all errors",
 	"license": "MIT",
 	"version": "1.0", 
 	"autoload": {
