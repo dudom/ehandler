@@ -3,6 +3,7 @@
 	"description": "Manage all errors",
 	"license": "MIT",
 	"version": "1.0", 
+	"keywords": ["log", "error", "handler"],
 	"autoload": {
 		"psr-4": {"Dudom\\Ehandler\\": "src/"}
 	}
