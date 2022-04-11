@@ -3,9 +3,9 @@
 /**
  * 
  */
-namespace Dudom;
+namespace Dudom\Ehandler;
 
-class ErrorLoader
+class Foo
 {
 	
 	function __construct()
