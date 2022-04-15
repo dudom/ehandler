@@ -4,11 +4,12 @@
  * 
  */
 namespace Dudom\Ehandler;
+
 class One
 {
 	
 	function __construct()
 	{
-		echo __METHOD__;
+		"This is the class " . __CLASS__;
 	}
 }

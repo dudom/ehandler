@@ -10,6 +10,6 @@ class FooClass
 	
 	function __construct()
 	{
-		echo __METHOD__;
+		"This is the class " . __CLASS__;
 	}
 }
