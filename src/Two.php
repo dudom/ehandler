@@ -5,11 +5,11 @@
  */
 namespace Dudom\Ehandler;
 
-class FooClass
+class Two
 {
 	
 	function __construct()
 	{
-		"This is the class " . __CLASS__;
+		echo __CLASS__;
 	}
 }

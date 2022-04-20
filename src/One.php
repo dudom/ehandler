@@ -10,6 +10,6 @@ class One
 	
 	function __construct()
 	{
-		"This is the class " . __CLASS__;
+		echo __CLASS__;
 	}
 }
