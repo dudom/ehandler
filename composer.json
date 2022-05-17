@@ -6,8 +6,8 @@
 	"homepage": "http://dudom.ru",
 	"keywords": ["log", "error", "handler"],
 	"autoload": {
+		"classmap": ["src/classes/"],
 		"psr-4": {"Dudom\\Ehandler\\": "src/"},
-		"files": ["src/inc/functions.php"],
-		"classmap": ["src/classes/"]
+		"files": ["src/inc/functions.php"]
 	}
 }
