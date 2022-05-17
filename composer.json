@@ -8,6 +8,7 @@
 	"autoload": {
 		"classmap": ["src/classes/"],
 		"psr-4": {"Dudom\\Ehandler\\": "src/"},
-		"files": ["src/inc/functions.php"]
+		"files": ["src/inc/functions.php"],
+		"classmap": ["src/classes/"]
 	}
 }
