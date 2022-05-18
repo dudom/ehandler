@@ -5,6 +5,14 @@
 	"version": "1.2",
 	"homepage": "http://dudom.ru",
 	"keywords": ["log", "error", "handler"],
+	"authors": [
+		{
+			"name": "Evgeny",
+			"email": "evgenyulchiev@gmail.com",
+			"homepage": "http://dudom.ru",
+			"role": "Developer"
+		}
+	],
 	"autoload": {
 		"classmap": ["src/classes/"],
 		"psr-4": {"Dudom\\Ehandler\\": "src/"},
