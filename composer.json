@@ -11,6 +11,12 @@
 			"email": "evgenyulchiev@gmail.com",
 			"homepage": "http://dudom.ru",
 			"role": "Developer"
+		},
+		{
+			"name": "Someone",
+			"email": "someone@gmail.com",
+			"homepage": "http://homepage.be",
+			"role": "Translator"
 		}
 	],
 	"autoload": {
