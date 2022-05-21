@@ -24,5 +24,8 @@
 		"psr-4": {"Dudom\\Ehandler\\": "src/"},
 		"files": ["src/inc/functions.php"],
 		"classmap": ["src/classes/"]
+	}, 
+	"autoload-dev": {
+		"psr-4":{}
 	}
 }
